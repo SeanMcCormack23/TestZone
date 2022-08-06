@@ -6,3 +6,6 @@
 body {
   background-color: red;
 }
+#greenBox {
+  border: 2px solid white;
+}
